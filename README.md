@@ -5,8 +5,8 @@ ADAS related models (vehicle and person detection, lane detection, speed limit s
 
 展示系统工程中车人检测、车道线检测、限速牌检测的功能测试视频
 注：该视频中，车道线推理为每隔5帧检测一次。
-![功能测试](https://raw.githubusercontent.com/allrivertosea/Xilinx-adas-inference-demo/blob/main/test.gif)
 
+![功能测试](https://github.com/allrivertosea/Xilinx-adas-inference-demo/blob/main/test.gif)
 
 ## 项目简介
 
