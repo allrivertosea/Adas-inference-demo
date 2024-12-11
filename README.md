@@ -9,7 +9,7 @@ ADAS related models (vehicle and person detection, lane detection, speed limit s
 
 ## 项目简介
 
-- 基于**DPU**加速推理adas相关模型**
+- 基于**DPU加速推理adas相关模型**
 - 支持**Zynq UltraScale+ MPSoC系列开发板**
 - 支持**XAZU3EG型号芯片**
 
